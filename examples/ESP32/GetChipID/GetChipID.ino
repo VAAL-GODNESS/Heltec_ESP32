@@ -1,4 +1,4 @@
-/* The true ESP32 chip ID is essentially its MAC address.*/
+8cda3bd8
   
 uint64_t chipId = 0;
 
